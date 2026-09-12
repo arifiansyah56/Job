@@ -1,0 +1,8 @@
+{
+  "name": "Job Auto-Apply & Smart Scraper",
+  "description": "Interactive full-stack web application for managing job searches, ATS resume tailoring, and tracking application metrics with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
